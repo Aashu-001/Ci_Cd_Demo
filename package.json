@@ -1,0 +1,14 @@
+{
+  "name": "ci_cd_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "node test.js"
+},
+  "author": "",
+   "license": "ISC",
+  "dependencies": {
+    "node": "^25.8.2"
+  }
+}
